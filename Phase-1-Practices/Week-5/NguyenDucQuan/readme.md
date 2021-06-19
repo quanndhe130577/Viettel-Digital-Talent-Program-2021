@@ -51,7 +51,7 @@ Tại giao diện Configuration, bạn chọn `Add new token`, sau đó nhập t
 Tại giao diện Dashboard của repository Gitlab, chọn `Setting` và chọn `Webhook`
 Tại đây hãy nhập địa chỉ URL theo format sau :
 
-https://NguyenDucQuan:11f0c648d916a771c1c0b3a2b7375c927c@403089abaf50.ngrok.io/project/testCICD
+https://quanndhe130577:11f0c648d916a771c1c0b3a2b7375c927c@403089abaf50.ngrok.io/project/testCICD
 
     Trong đó : 
    				NguyenDucQuan: username đăng nhập jenkins
